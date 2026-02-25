@@ -2578,7 +2578,7 @@ input, select, textarea {
 			}
 
 			.tiles article:after {
-				background-color: rgba(61, 91, 67, 0.9);
+				background-color: inherit;
 				content: '';
 				display: block;
 				height: 100%;
